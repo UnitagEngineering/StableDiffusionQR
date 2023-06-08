@@ -9,14 +9,23 @@ Stable diffusion model:
 **General settings**:
 
 Stable diffusion:
-Image Width x Height: 768 x 768
-CFG Scale: 7
+
+| Setting | Value |
+| ------- | ----- |
+| `Image dimensions` | 768 x 768 |
+| `CFG Scale` | 7 |
+| `Iterations` | 20 |
 
 ControlNet:
 Version: 1.1.122
 Units: 1
-Preprocessor type: tile
-Model: 
+
+| Setting | Value |
+| ------- | ----- |
+| `Preprocessor type` | tile |
+| `Model` | tile |
+| `Pixel Perfect` | Off |
+| `Weigth` | [0.75..0.85] |
 
 Architecture
 
