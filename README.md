@@ -58,6 +58,12 @@ Negative Prompt
 
 Outputs
 
+|Output 1             |
+|-------------------------|
+|![00159-1679541580](https://github.com/UnitagEngineering/StableDiffusionQR/assets/73647904/e707d9b2-a068-4559-8785-0f93f64d95b6)| |
+
+
+
 ### House with vegetation (Credits to redditor for prompt)
 
 Prompt
@@ -65,12 +71,11 @@ Prompt
 A photo-realistic rendering of a 2 story house with greenery, pool, (Botanical:1.5), (Photorealistic:1.3), (Highly detailed:1.2), (Natural light:1.2), art inspired by Architectural Digest, Vogue Living, and Elle Decor
 ```
 
-### Futuristic
+Outputs
 
-Prompt
-```
-professional architectural photography of a city, futuristic cityscape, neon, sharp focus, post-production, surreal, neon, cyber punk
-```
+|Output 1             | Output 2 | Output 3 |
+|-------------------------|-------------------------|-------------------------|
+| ![00121-2481559407](https://github.com/UnitagEngineering/StableDiffusionQR/assets/73647904/644c17e5-354b-4f4c-95db-a651722fd0b0)| ![00123-1829896796](https://github.com/UnitagEngineering/StableDiffusionQR/assets/73647904/51245c67-39e6-4d22-8944-dbc99cace46e) | ![00155-2345936299](https://github.com/UnitagEngineering/StableDiffusionQR/assets/73647904/beae0c59-9002-49b2-99c4-663856dea26b) |
 
 ---
 
