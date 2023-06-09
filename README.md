@@ -31,10 +31,13 @@ ControlNet:
 
 | Setting | Value |
 | ------- | ----- |
-| `Preprocessor type` | tile |
-| `Model` | tile |
-| `Pixel Perfect` | Off |
-| `Weigth` | [0.55..0.85] |
+| `Preprocessor type` | Tile |
+| `Model` | control_v11f1e_sd15_tile |
+| `Pixel Perfect` | On |
+| `Starting Control Step` | 0.23 |
+| `Ending Control Step` | 1 |
+| `Control Weigth` | [0.55..0.85] |
+| `Control Mode` | Balanced |
 
 Categories, Outputs and Prompts
 ---
