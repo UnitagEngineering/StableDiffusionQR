@@ -79,6 +79,20 @@ Outputs
 
 ---
 
+## Outpainting
+
+Outpainting allows a better image to be produced as the art generated from the prompt will outpaint the central QR code
+
+By reusing the same prompt used during the generation we can outpaint some the QR codes images previsouly produced,
+
+Some early examples are given below
+
+| Outpaint 1 | Outpaint 2 | Outpaint 3 |
+| --- | --- | --- |
+| ![00007-1679541583](https://github.com/UnitagEngineering/StableDiffusionQR/assets/73647904/ccd7dcd0-e79d-417b-8e12-c101bfbe8a42) | ![00008-552369233](https://github.com/UnitagEngineering/StableDiffusionQR/assets/73647904/36afdce2-c46b-4c1c-8da0-9df0403540db) | ![00015-3347000779](https://github.com/UnitagEngineering/StableDiffusionQR/assets/73647904/1950aea9-ed52-46a1-adf6-409cc17084b2) |
+
+ -- TBC --
+
 ## Entertainment
 
 ### Retro Gaming
@@ -128,4 +142,6 @@ Prompt
 ```
 cruise, water, beach, sun, boat, sunny, bright sky, natural lightinhg
 ```
+
+
 
